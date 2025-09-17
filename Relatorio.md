@@ -60,6 +60,7 @@ Finalmente, saí do contêiner com `exit` e o removi do sistema com `docker rm f
 
 
 * **O que você aprendeu?** Com esta atividade, aprendi na prática como funcionam os comandos essenciais do Linux... Entendi melhor o conceito de diretório home e a importância de gerenciar permissões.
-* **Quais foram suas dificuldades?** Minha principal dificuldade foi entender a sintaxe do comando `docker run` no início, mas a descrição ajudou..." ou "Não tive grandes dificuldades, os passos foram claros.
+* **Quais foram suas dificuldades?** Minha principal dificuldade foi entender a sintaxe do comando `docker run` no início, mas a descrição ajudou, Não tive grandes dificuldades, os passos foram claros.
 * **Qual a importância do Docker nesse contexto?**Percebi que o Docker é uma ferramenta poderosa para criar ambientes de teste sem precisar instalar uma máquina virtual completa, tornando o processo mais rápido e limpo.
+
 

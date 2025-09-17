@@ -42,7 +42,7 @@ O gerenciador de pacotes `dnf` foi utilizado para atualizar o sistema e para ins
 ### 2.5. Permissões de Arquivos
 O comando `chmod u+x` foi usado para conceder permissão de execução ao dono do arquivo `script.sh`. A verificação foi feita com `ls -l` antes e depois da alteração.
 
-![Permissões antes e depois](imagens/nome_do_seu_print_6.png)
+![Permissões antes e depois](imagens/6.png)
 
 ### 2.6. Gerenciamento de Processos
 Foi iniciado um processo `sleep` em segundo plano. O seu PID foi identificado com `ps aux | grep sleep` e, em seguida, o processo foi encerrado com o comando `kill`.
@@ -62,3 +62,4 @@ Finalmente, saí do contêiner com `exit` e o removi do sistema com `docker rm f
 * **O que você aprendeu?** Com esta atividade, aprendi na prática como funcionam os comandos essenciais do Linux... Entendi melhor o conceito de diretório home e a importância de gerenciar permissões.
 * **Quais foram suas dificuldades?** Minha principal dificuldade foi entender a sintaxe do comando `docker run` no início, mas a descrição ajudou..." ou "Não tive grandes dificuldades, os passos foram claros.
 * **Qual a importância do Docker nesse contexto?**Percebi que o Docker é uma ferramenta poderosa para criar ambientes de teste sem precisar instalar uma máquina virtual completa, tornando o processo mais rápido e limpo.
+
